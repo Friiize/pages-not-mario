@@ -14,7 +14,7 @@ const project = new Image();
 //CONFIG
 canvas.height = window.innerHeight;
 canvas.width = window.innerWidth;
-character.src = "E:\\Documents\\Projets\\GithubPages/pagesnotmario/res/notMarioIdle.png";
+character.src = "https://friiize.github.io/pages-not-mario//res/notMarioIdle.png";
 project.src = "";
 
 //CLASS MODELS
