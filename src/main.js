@@ -65,7 +65,13 @@ class Project {
         this.posYs = [];
         this.posXs = [];
         this.isJumped = false;
-        this.links = ["https://github.com/Friiize/WelcompEnds", "https://github.com/Friiize/pages-not-mario", "https://github.com/Friiize/welcomp-apps", "https://github.com/Friiize/BatailleNavale", "https://github.com/Friiize/rekindle-dev"]
+        this.links = [
+            "https://github.com/Friiize/WelcompEnds",
+            "https://github.com/Friiize/pages-not-mario",
+            "https://github.com/Friiize/welcomp-apps",
+            "https://github.com/Friiize/BatailleNavale",
+            "https://github.com/Friiize/rekindle-dev"
+        ];
     }
 
     draw() {
